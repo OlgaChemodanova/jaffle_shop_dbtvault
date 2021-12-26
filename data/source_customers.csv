@@ -35,7 +35,7 @@ id,first_name,last_name,email
 34,Jennifer,Stewart,jstewartx@yahoo.com
 35,Sara,Tucker,stuckery@topsy.com
 36,Harold,Ortiz,hortizz@vkontakte.ru
-37,Shirley,James,sjames10@yelp.com
+37,Shirley,James,shirley_james10@yelp.com
 38,Dennis,Johnson,djohnson11@slate.com
 39,Louise,Weaver,lweaver12@china.com.cn
 40,Maria,Armstrong,marmstrong13@prweb.com
@@ -99,4 +99,6 @@ id,first_name,last_name,email
 98,Nicole,Meyer,nmeyer2p@flickr.com
 99,Mary,Gray,mgray2q@constantcontact.com
 100,Jean,Mcdonald,jmcdonald2r@baidu.com
-101,Donald,Trump,d.trump@usa.gov
+101,Donald,Trump,donald.trump@usa.gov
+102,Ivan,Ivanov,Ivanov@mail.ru
+103,Petr,Petrov,Petrov@mail.ru
